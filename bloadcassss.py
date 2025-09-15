@@ -228,3 +228,4 @@ while True:
     else:
         sdsd = q32
         print(RED + "⚠️ اختيار غير صحيح، تم استخدام بلاغ أوروبي عشوائي كخيار افتراضي." + RESET)
+        break
